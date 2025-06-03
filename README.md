@@ -60,7 +60,16 @@ The Tascam Mixcast 4 is a powerful audio mixer and podcast workstation. But its 
 
 ---
 
-## ❓ Why did I build this?
+## Roadmap
+
+- [x] Initial release: basic audio file conversion to Mixcast 4 format
+- [ ] XML formatting: Maybe issue with xml formatting? (Still testing)
+- [ ] GUI
+- [ ] Auto mounting of SD card
+
+---
+
+## Why did I build this?
 
 As a linux user, I was always locked down to the windows software for the Tascam Mixcast software.
 I started doing some digging and found that you do not even need to have the software in order to add sounds to the soundpad and the device.
