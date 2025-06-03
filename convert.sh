@@ -29,7 +29,7 @@ else
 fi
 
 # Wait for Mixcast SD card
-mount_path="/run/media/adam/Mixcast4/SOUNDPAD"
+mount_path="/run/media/$USER/Mixcast4/SOUNDPAD"
 ppl_file="$mount_path/mixcast.ppl"
 
 echo "🔍 Looking for Mixcast SD card..."
